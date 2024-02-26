@@ -5,6 +5,6 @@ Particle identification (PID) of hadrons plays a crucial role in particle physic
 
 
 * cluster_counting_ml_codes:
-** Python codes to train and test machine learning model for cluster counting. Including LSTM for peak finding and DGCNN for clusterization.
+* Python codes to train and test machine learning model for cluster counting. Including LSTM for peak finding and DGCNN for clusterization.
 * sample:
-** CERN ROOT files of simulation samples of waveforms of the signal in drift chamber cells.
+  CERN ROOT files of simulation samples of waveforms of the signal in drift chamber cells.
